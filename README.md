@@ -1,5 +1,5 @@
 # 8ProjetosPython_iniciante
-8 Projetos feito em python e GUI para treinar tanto habilidades back-end quando front-end. Projetos simples apenas para estudo.
+8 Projetos feito em python e GUI para treinar principalmente POO e back-end. Projetos simples apenas para estudo.
 
 Projeto 1 = simulador de dados
 objetivo = Exibir um valor de 1 até 6 sempre que rodar o programa 
